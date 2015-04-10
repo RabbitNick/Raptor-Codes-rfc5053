@@ -54,8 +54,8 @@ int main(int argc, char const *argv[])
 
 
     const int SYMBOL_LEN = 1;
-    const int SYMBOL_SIZE = 5;
-    const int overhead = 4;
+    const int SYMBOL_SIZE = 1024;
+    const int overhead = 3;
 
 
 	class Array_Data_Symbol testing_symbol(SYMBOL_SIZE, SYMBOL_LEN);
@@ -133,10 +133,9 @@ int main(int argc, char const *argv[])
     // decoder.Inter_Symbols_Decoding(C);
 
     // drop some symbols for testing
-    int loss = 1;
+     int loss = 1;
     D.symbol.erase(D.symbol.begin() + 3);
     D.ESIs.erase(D.ESIs.begin() + 3);
-   // ESI.erase(ESI.begin() + 3);
 
 
 
@@ -174,7 +173,7 @@ int main(int argc, char const *argv[])
 
 
     std::cout << "decode successfully!" << std::endl;
-    std::cout <<  "total symbols: " << source.K <<"  redundancy: " <<  overhead <<std::endl;
+    std::cout <<  "total symbols: " << source.K <<"  redundancy rate: " <<  (float)overhead / (float)SYMBOL_SIZE <<std::endl;
 
 
 	return 0;
