@@ -50,9 +50,10 @@ Note: Choosing some k numbers can not work, because the encoding matrix is not f
 
 Nick Chan(Fudan University) nick(dot)chitchan(AT)gmail.com
 
+Xu Zhang(Fudan University) xuzhang09(AT)fudan.edu.cn
+
 Hai Wang(Fudan University) wangh3(AT)sustc.edu.cn
 
-Xu Zhang(Fudan University) xuzhang09(AT)fudan.edu.cn
 
 Sonic Lab, CS, Fudan University.
 
