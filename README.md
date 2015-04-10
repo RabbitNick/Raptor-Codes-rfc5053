@@ -5,6 +5,7 @@ This project is about Raptor Codes. We implemented rfc 5053(R10) Raptor Codes in
 Install the Pre-Requisites:
 
 @Development Tools(need for compilation)
+
 	*g++
 	*git
 	*make
@@ -12,6 +13,7 @@ Install the Pre-Requisites:
 
 
 @Libraries(need for runtime and compilation)
+
 	*boost 1.52
 
 
@@ -21,7 +23,8 @@ Install Dependencies:
 We implemented RFC5053 on Ubuntu 14.04 and do not test it on other OSs. If you use Ubuntu 14.04, you can directly install the dependencies.
 
 Trusty Tahr(14.04)
-sudo apt-get -y install cmake g++ git-core libboost1.55-all-dev
+
+	sudo apt-get -y install cmake g++ git-core libboost1.55-all-dev
 
 Of course, you can download this source codes of dependencies and install them.
 
@@ -46,7 +49,9 @@ Note: Choosing some k numbers can not work, because the encoding matrix is not f
 
 
 Nick Chan(Fudan University) nick(dot)chitchan(AT)gmail.com
-Hai Wang(Fudan University) wangh3(AT)sustc(dot)edu.cn
+
+Hai Wang(Fudan University) wangh3(AT)sustc.edu.cn
+
 Xu Zhang(Fudan University) xuzhang09(AT)fudan.edu.cn
 
 Sonic Lab, CS, Fudan University.
