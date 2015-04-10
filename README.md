@@ -52,7 +52,7 @@ Nick Chan(Fudan University) nick(dot)chitchan(AT)gmail.com
 
 Xu Zhang(Fudan University) xuzhang09(AT)fudan.edu.cn
 
-Hai Wang(Fudan University) wangh3(AT)sustc.edu.cn
+Hai Wang(South University of Science and Technology of China) wangh3(AT)sustc.edu.cn
 
 
 Sonic Lab, CS, Fudan University.
