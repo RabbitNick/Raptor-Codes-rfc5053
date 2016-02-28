@@ -40,22 +40,9 @@ For conveniently implementation, We did not implement the Raptor Codes decoder i
 
 Note: Choosing some k numbers can not work, because the encoding matrix is not full rank. We will figure out this problem later. If you have any ideas, please feel free to contact with us.
 
-
-
-
-
-
-
-
-
-Nick Chan(Fudan University) nick(dot)chitchan(AT)gmail.com
-
-Xu Zhang(Fudan University) xuzhang09(AT)fudan.edu.cn
-
-Hai Wang(South University of Science and Technology of China) wangh3(AT)sustc.edu.cn
-
-
-Sonic Lab, CS, Fudan University.
+**************************************
+We will leave our contact method after the IwQos paper review.
+**************************************
 
 
 
