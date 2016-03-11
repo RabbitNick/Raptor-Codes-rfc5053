@@ -42,6 +42,7 @@ Note: Choosing some k numbers can not work, because the encoding matrix is not f
 
 **************************************
 Ben Zhang: zhangbjb at gmail dot com
+
 Nick Chan: nick.chitchan at gmail dot com
 
 **************************************
