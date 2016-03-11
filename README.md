@@ -41,7 +41,9 @@ For conveniently implementation, We did not implement the Raptor Codes decoder i
 Note: Choosing some k numbers can not work, because the encoding matrix is not full rank. We will figure out this problem later. If you have any ideas, please feel free to contact with us.
 
 **************************************
-We will leave our contact method after the IwQos paper review.
+Ben Zhang: zhangbjb at gmail dot com
+Nick Chan: nick.chitchan at gmail dot com
+
 **************************************
 
 
